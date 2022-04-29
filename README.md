@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Hi, I'm Mina </h1>
 <h2 align="center"> Passionate self-taught frontend developer </h2>
 
-<p>🍃I love creating and learning new things and I am currently learning React and API</p>
+<p>🍃I love designing and learning new things and I am currently learning React and API</p>
 
 </br>
 </br>
