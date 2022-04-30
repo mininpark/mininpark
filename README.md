@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Hi, I'm Mina </h1>
 <h2 align="center"> Passionate self-taught frontend developer </h2>
 
-<p>🍃I love designing and learning new things and I am currently learning React and API</p>
+<p>🍃I love designing and learning new things and I am currently learning API and Nodejs</p>
 
 </br>
 </br>
@@ -11,7 +11,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Jquery](https://img.shields.io/badge/-Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Python](https://img.shields.io/badge/-Json-000000?&style=for-the-badge&logo=Json&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
