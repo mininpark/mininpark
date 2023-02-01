@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Hi, I'm Mina </h1>
 <h2 align="center"> Passionate self-taught frontend developer </h2>
 
-<p>🍃 I am a frontend developer with a passion for creating visually stunning and user-friendly websites. I have one year of professional experience in the field, but my passion for web development has driven me to continuously learn and grow for the past three years through self-study and projects. With my strong motivation and quick learning ability, I am confident in my ability to quickly grasp new technologies and put them into practice in order to create high-quality websites. I'm currently learning Three JS, ReactJS, RxJS, Angualr. </p>
+<p>🍃 I am a frontend developer with a passion for creating visually stunning and user-friendly websites. I have half year of professional experience in the field, but my passion for web development has driven me to continuously learn and grow for the past two years through self-study and projects. With my strong motivation and quick learning ability, I am confident in my ability to quickly grasp new technologies and put them into practice in order to create high-quality websites. I'm currently learning Three JS, ReactJS, RxJS, Angualr. </p>
 
 </br>
 </br>
