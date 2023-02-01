@@ -1,7 +1,7 @@
 <h1 align="center">👩🏻‍💻 Hi, I'm Mina </h1>
 <h2 align="center"> Passionate self-taught frontend developer </h2>
 
-<p>🍃I love designing and learning new things and I am currently learning API and Nodejs</p>
+<p>🍃 I am a frontend developer with a passion for creating visually stunning and user-friendly websites. I have one year of professional experience in the field, but my passion for web development has driven me to continuously learn and grow for the past three years through self-study and experimentation. With my strong motivation and quick learning ability, I am confident in my ability to quickly grasp new technologies and put them into practice in order to create high-quality websites.</p>
 
 </br>
 </br>
